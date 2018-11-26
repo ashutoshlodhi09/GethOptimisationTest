@@ -1,0 +1,17 @@
+{
+  "name": "performances-test",
+  "version": "1.0.0",
+  "description": "test all ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openstfoundation/openst-base": "0.9.2",
+    "@openstfoundation/openst.js": "0.9.4",
+    "progress": "^2.0.1",
+    "web3": "1.0.0-beta.36"
+  }
+}
